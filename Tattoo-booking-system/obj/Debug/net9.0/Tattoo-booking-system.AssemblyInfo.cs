@@ -10,10 +10,12 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Tattoo_booking_system-9e354093-6dd3-4a58-84aa-d7833bf85c6c")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tattoo-booking-system")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f60993c75c19c656f4bc3121827ee3924169157")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e12cf178f94bc34871d10b061a194be4dfb3f0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tattoo-booking-system")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tattoo-booking-system")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
