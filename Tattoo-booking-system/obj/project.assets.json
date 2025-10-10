@@ -3565,19 +3565,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lukas\\.nuget\\packages\\": {}
+    "C:\\Users\\Ana Mariel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukas\\IKT201-G-25H---Group-14\\Tattoo-booking-system\\Tattoo-booking-system.csproj",
+      "projectUniqueName": "C:\\Users\\Ana Mariel\\IKT201-G-25H---Group-14\\Tattoo-booking-system\\Tattoo-booking-system.csproj",
       "projectName": "Tattoo-booking-system",
-      "projectPath": "C:\\Users\\lukas\\IKT201-G-25H---Group-14\\Tattoo-booking-system\\Tattoo-booking-system.csproj",
-      "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukas\\IKT201-G-25H---Group-14\\Tattoo-booking-system\\obj\\",
+      "projectPath": "C:\\Users\\Ana Mariel\\IKT201-G-25H---Group-14\\Tattoo-booking-system\\Tattoo-booking-system.csproj",
+      "packagesPath": "C:\\Users\\Ana Mariel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ana Mariel\\IKT201-G-25H---Group-14\\Tattoo-booking-system\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ana Mariel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -3647,7 +3647,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\lukas\\.dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
