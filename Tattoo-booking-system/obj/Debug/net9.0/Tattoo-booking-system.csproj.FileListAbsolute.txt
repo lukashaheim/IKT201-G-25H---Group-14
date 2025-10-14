@@ -291,3 +291,4 @@ C:\Users\lukas\IKT201-G-25H---Group-14\Tattoo-booking-system\obj\Debug\net9.0\re
 C:\Users\lukas\IKT201-G-25H---Group-14\Tattoo-booking-system\obj\Debug\net9.0\Tattoo-booking-system.pdb
 C:\Users\lukas\IKT201-G-25H---Group-14\Tattoo-booking-system\obj\Debug\net9.0\Tattoo-booking-system.genruntimeconfig.cache
 C:\Users\lukas\IKT201-G-25H---Group-14\Tattoo-booking-system\obj\Debug\net9.0\ref\Tattoo-booking-system.dll
+C:\Users\lukas\IKT201-G-25H---Group-14\Tattoo-booking-system\obj\Debug\net9.0\compressed\eatgz33cq3-ggiyzcns5s.gz
