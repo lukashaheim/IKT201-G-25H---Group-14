@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tattoo-booking-system")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0973a2377d4691a8b27227d29c32e2cc0f1f238d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5021dc041398f087184a5d1d937bc50405a76658")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tattoo-booking-system")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tattoo-booking-system")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
