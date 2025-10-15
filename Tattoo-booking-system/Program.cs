@@ -17,6 +17,13 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
+// Call the database initializer
+using (var services = app.Services.CreateScope())
+{
+    var db = services.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+    ApplicationDbInitializer.Initialize(db);
+}
+
 app.UseStaticFiles();
 
 // Configure the HTTP request pipeline.
