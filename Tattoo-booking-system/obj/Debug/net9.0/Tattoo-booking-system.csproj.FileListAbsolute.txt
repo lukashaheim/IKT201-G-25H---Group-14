@@ -292,4 +292,4 @@ C:\Users\lukas\IKT201-G-25H---Group-14\Tattoo-booking-system\obj\Debug\net9.0\Ta
 C:\Users\lukas\IKT201-G-25H---Group-14\Tattoo-booking-system\obj\Debug\net9.0\Tattoo-booking-system.genruntimeconfig.cache
 C:\Users\lukas\IKT201-G-25H---Group-14\Tattoo-booking-system\obj\Debug\net9.0\ref\Tattoo-booking-system.dll
 C:\Users\lukas\IKT201-G-25H---Group-14\Tattoo-booking-system\obj\Debug\net9.0\compressed\eatgz33cq3-ggiyzcns5s.gz
-C:\Users\lukas\IKT201-G-25H---Group-14\Tattoo-booking-system\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\lukas\IKT201-G-25H---Group-14\Tattoo-booking-system\obj\Debug\net9.0\compressed\vmaqxcts5w-0rlb8k09md.gz

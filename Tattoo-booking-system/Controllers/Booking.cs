@@ -1,21 +1,24 @@
 using Microsoft.AspNetCore.Mvc;
+using Tattoo_booking_system.Models;
 
 namespace Tattoo_booking_system.Controllers;
 
-public class Booking : Controller
+public class BookingController : Controller
 {
-    // GET
-    public IActionResult Index()
-    {
-        return View();
-    }
+    private readonly IWebHostEnvironment _env;
+    public BookingController(IWebHostEnvironment env) => _env = env;
+
+    [HttpGet]
+    public IActionResult Index() => View(new Booking());
 
     [HttpPost]
-    public IActionResult Add(Booking model)
+    public async Task<IActionResult> Index(Booking model)
     {
         if (!ModelState.IsValid)
             return View(model);
-        
-        return RedirectToAction(nameof(Index));
+
+        // TODO: lagre booking til database 
+
+        return View(model); // viser evt. opplastet bilde
     }
 }
