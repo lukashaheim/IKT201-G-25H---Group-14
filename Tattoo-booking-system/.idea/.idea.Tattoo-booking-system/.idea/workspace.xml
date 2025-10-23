@@ -9,10 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="854260d6-3d9a-4e54-8286-8ccfeeb5a506" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/wwwroot/css/gallery.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Tattoo-booking-system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tattoo-booking-system/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Gallery/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Gallery/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Tattoo-booking-system.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/Tattoo-booking-system.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Tattoo-booking-system.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/Tattoo-booking-system.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Tattoo-booking-system.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/Tattoo-booking-system.pdb" afterDir="false" />
@@ -25,6 +24,7 @@
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Tattoo-booking-system.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/Tattoo-booking-system.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/Tattoo-booking-system.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/Tattoo-booking-system.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/compressed/63d8n0ktnk-b9sayid5wm.gz" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/rbcswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/rbcswa.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/ref/Tattoo-booking-system.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/ref/Tattoo-booking-system.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/refint/Tattoo-booking-system.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/refint/Tattoo-booking-system.dll" afterDir="false" />
@@ -36,6 +36,9 @@
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/staticwebassets.build.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/staticwebassets.build.json.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/staticwebassets.build.json.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/wwwroot/css/site.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +60,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Controllers/Gallery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/ApplicationDbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Views/Gallery/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -96,7 +100,6 @@
       <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
       <option name="SEND_DEBUG_REQUEST" value="1" />
       <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -112,12 +115,12 @@
       <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
       <option name="SEND_DEBUG_REQUEST" value="1" />
       <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
       <method v="2">
         <option name="Build" />
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="854260d6-3d9a-4e54-8286-8ccfeeb5a506" name="Changes" comment="" />
@@ -129,6 +132,8 @@
       <workItem from="1760082933344" duration="2831000" />
       <workItem from="1760088820328" duration="621000" />
       <workItem from="1760441361413" duration="614000" />
+      <workItem from="1761218957929" duration="346000" />
+      <workItem from="1761222476010" duration="2653000" />
     </task>
     <servers />
   </component>
@@ -138,23 +143,5 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
-          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
-          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
-          <option name="timeStamp" value="2" />
-        </breakpoint>
-        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
-          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
-          <option name="timeStamp" value="3" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
