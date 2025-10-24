@@ -14,6 +14,10 @@ out/
 appsettings.Development.json
 app.db
 
+*.db
+*.db-shm
+*.db-wal
+
 *.log
 logs/
 .tlog
